@@ -8,7 +8,6 @@
 </p>
 
 - 🏆 **Top Rated Plus** on Upwork (100% Job Success, 1k+ hours)
-- 🤖 **AI Trainer** at **Revelo** – curating high-quality training data & fine-tuning LLMs
 - 🔭 **Currently focused on:** Machine Learning & AI – building intelligent agents, RAG pipelines, and MLOps workflows
 - 🌱 **Learning:** Deep Learning (PyTorch/TensorFlow), LangChain, Vector Databases (Pinecone, Weaviate), and Model Deployment
 - 💬 **Ask me about:** Full‑stack development (React, Node, NestJS) + integrating AI/ML into production systems
