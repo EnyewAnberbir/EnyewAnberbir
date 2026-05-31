@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enyew Anberbir</h1>
-<h3 align="center">Top Rated Upwork Developer | AI Trainer @ Revelo | ML & AI Practitioner</h3>
+<h3 align="center">Top Rated Upwork Developer  | ML & AI Practitioner</h3>
 
 <img align="right" alt="AI & Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnBvb21uZ2lwY2FvM2FpYzZ5eGt6a2l2aHp0c3N0c2Z2bGw5bG5mcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" />
 
