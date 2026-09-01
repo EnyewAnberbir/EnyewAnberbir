@@ -35,20 +35,7 @@
 
 ---
 
-### 📊 GitHub Analytics
 
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enyewanberbir&show_icons=true&locale=en&layout=compact&theme=radical" alt="enyewanberbir" width="48%" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=enyewanberbir&theme=radical" alt="enyewanberbir" width="48%" />
-</p>
-
-<br clear="both"/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enyewanberbir&show_icons=true&locale=en&theme=radical" alt="enyewanberbir" width="80%" />
-</p>
-
----
 
 ### 🏆 GitHub Trophies
 
